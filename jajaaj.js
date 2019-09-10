@@ -1,0 +1,1 @@
+new BugController({'maxBugs':2});
